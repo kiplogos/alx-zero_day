@@ -1,0 +1,25 @@
+include <stdio.h>                                                                                                                                             
+
+                                                                                                                                                              
+
+main()                                                                                                                                                        
+
+{                                                                                                                                                             
+
+	        int marks;                                                                                                                                            
+
+		        printf("Enter Marks")                                                                                                                                 
+
+				        if (marks > 80) {                                                                                                                                     
+
+						                printf("Welcome aboard");                                                                                                                     
+
+								        }                                                                                                                                                     
+
+			        else {                                                                                                                                                
+
+					                printf("Goodbye")                                                                                                                             
+
+								        }                                                                                                                                                     
+
+			       
